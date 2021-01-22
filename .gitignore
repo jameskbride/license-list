@@ -29,3 +29,10 @@ config/secrets.yml
 /vendor/assets/bower_components
 *.bowerrc
 bower.json
+
+# Built gems
+*.gem
+
+# idea project files
+.idea
+*.iml
